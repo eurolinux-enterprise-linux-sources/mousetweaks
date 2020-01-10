@@ -1,12 +1,12 @@
 Name:           mousetweaks
-Version:        3.12.0
-Release:        1%{?dist}
+Version:        3.8.0
+Release:        3%{?dist}
 Summary:        Mouse accessibility support for the GNOME desktop
 Group:          User Interface/Desktops
 License:        GPLv3 and GFDL
 #VCS: git:git://git.gnome.org/mousetweaks
 URL:            http://live.gnome.org/Mousetweaks/Home
-Source0:        http://download.gnome.org/sources/mousetweaks/3.12/%{name}-%{version}.tar.xz
+Source0:        http://download.gnome.org/sources/mousetweaks/3.8/%{name}-%{version}.tar.xz
 
 BuildRequires:  gettext
 BuildRequires:  gnome-doc-utils
@@ -64,10 +64,6 @@ glib-compile-schemas %{_datadir}/glib-2.0/schemas &>/dev/null || :
 %doc %{_mandir}/man1/*
 
 %changelog
-* Thu Feb 23 2017 Matthias Clasen <mclasen@redhat.com> - 3.12.0-1
-- Rebase to 3.12.0
-  Resolves: rhbz#1387023 
-
 * Fri Jan 24 2014 Daniel Mach <dmach@redhat.com> - 3.8.0-3
 - Mass rebuild 2014-01-24
 
