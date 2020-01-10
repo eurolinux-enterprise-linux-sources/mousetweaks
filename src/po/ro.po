@@ -1,0 +1,487 @@
+# Romanian translation for mousetweaks
+# Copyright (c) 2008 Rosetta Contributors and Canonical Ltd 2008
+# This file is distributed under the same license as the mousetweaks package.
+# Adi Roiban https://launchpad.net/~adiroiban, 2008, 2009
+# Lucian Adrian Grijincu <lucian.grijincu@gmail.com>, 2009
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mousetweaks\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=mousetweaks&component=general\n"
+"POT-Creation-Date: 2009-10-05 11:15+0000\n"
+"PO-Revision-Date: 2009-10-11 18:02+0300\n"
+"Last-Translator: Lucian Adrian Grijincu <lucian.grijincu@gmail.com>\n"
+"Language-Team: Gnome Romanian Team <gnomero-list@lists.sourceforge.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1 ? 0: (((n % 100 > 19) || ((n % 100 "
+"== 0) && (n != 0))) ? 2: 1));\n"
+
+#: ../data/dwell-click-applet.ui.h:1
+msgid ""
+"Applet to select different dwell-click types.\n"
+"Part of Mousetweaks"
+msgstr ""
+"Miniaplicație pentru a alege diferite tipuri de clic staționar.\n"
+"Parte a Mousetweaks"
+
+#: ../data/dwell-click-applet.ui.h:3
+msgid "Click Type Window"
+msgstr "Fereastră tip clic"
+
+#: ../data/dwell-click-applet.ui.h:4 ../data/mousetweaks.ui.h:1
+msgid "Double Click"
+msgstr "Clic dublu"
+
+#: ../data/dwell-click-applet.ui.h:5 ../data/mousetweaks.ui.h:2
+msgid "Drag Click"
+msgstr "Clic tragere"
+
+#: ../data/dwell-click-applet.ui.h:6 ../data/mousetweaks.schemas.in.h:12
+#: ../src/mt-main.c:873
+msgid "Enable dwell click"
+msgstr "Activează clicul staționar"
+
+#: ../data/dwell-click-applet.ui.h:7 ../data/mousetweaks.ui.h:4
+msgid "Right Click"
+msgstr "Clic dreapta"
+
+#: ../data/dwell-click-applet.ui.h:8 ../data/mousetweaks.ui.h:8
+msgid "Single Click"
+msgstr "Clic simplu"
+
+#: ../data/pointer-capture-applet.ui.h:1
+msgid "A_lt"
+msgstr "A_lt"
+
+#: ../data/pointer-capture-applet.ui.h:2
+msgid ""
+"Area to freeze the mouse pointer on the panel.\n"
+"Part of Mousetweaks"
+msgstr ""
+"Zona de înghețare a cursorului mausului în panou.\n"
+"Parte din Mousetweaks"
+
+#: ../data/pointer-capture-applet.ui.h:4
+msgid "C_trl"
+msgstr "C_trl"
+
+#: ../data/pointer-capture-applet.ui.h:5
+msgid "Capture Pointer"
+msgstr "Capturează cursorul"
+
+#: ../data/pointer-capture-applet.ui.h:6
+msgid "Ct_rl"
+msgstr "Ct_rl"
+
+#: ../data/pointer-capture-applet.ui.h:7
+msgid "Modifier:"
+msgstr "Modificator:"
+
+#: ../data/pointer-capture-applet.ui.h:8
+msgid "Mouse _button:"
+msgstr "_Buton de maus:"
+
+#: ../data/pointer-capture-applet.ui.h:9
+msgid "Mouse b_utton:"
+msgstr "B_uton de maus:"
+
+#: ../data/pointer-capture-applet.ui.h:10
+msgid "Pointer Capture Preferences"
+msgstr "Preferințe capturare cursor"
+
+#: ../data/pointer-capture-applet.ui.h:11
+msgid "Release Pointer"
+msgstr "Eliberează cursorul"
+
+#: ../data/pointer-capture-applet.ui.h:12
+msgid "S_hift"
+msgstr "S_hift"
+
+#: ../data/pointer-capture-applet.ui.h:13
+msgid "Selecting Button 0 will capture the pointer immediately"
+msgstr "Alegerea butonului 0 va captura imediat cursorul"
+
+#: ../data/pointer-capture-applet.ui.h:14
+msgid "Sh_ift"
+msgstr "Sh_ift"
+
+#: ../data/pointer-capture-applet.ui.h:15
+msgid "Size of Capture Area"
+msgstr "Dimensiunea zonei de captură"
+
+#: ../data/pointer-capture-applet.ui.h:16
+msgid "_Alt"
+msgstr "_Alt"
+
+#: ../data/pointer-capture-applet.ui.h:17
+msgid "_Width:"
+msgstr "_Lățime:"
+
+#: ../data/pointer-capture-applet.ui.h:18
+msgid "pixels"
+msgstr "pixeli"
+
+#: ../data/mousetweaks.ui.h:3
+msgid "Dwell Click Type"
+msgstr "Tip clic staționar"
+
+#: ../data/mousetweaks.ui.h:5
+msgid "Show Icons and Text"
+msgstr "Afișează iconițe și text"
+
+#: ../data/mousetweaks.ui.h:6
+msgid "Show Icons only"
+msgstr "Afișează doar iconițe"
+
+#: ../data/mousetweaks.ui.h:7
+msgid "Show Text only"
+msgstr "Afișează doar text"
+
+#: ../data/DwellClick_Factory.server.in.in.h:1 ../src/dwell-click-applet.c:561
+msgid "Dwell Click"
+msgstr "Clic staționar"
+
+#: ../data/DwellClick_Factory.server.in.in.h:2
+msgid "Select dwelling click type"
+msgstr "Alegere tip clic staționar"
+
+#: ../data/PointerCapture_Factory.server.in.in.h:1
+msgid "Area to lock the pointer"
+msgstr "Zonă de blocare cursor maus"
+
+#: ../data/PointerCapture_Factory.server.in.in.h:2
+#: ../src/pointer-capture-applet.c:549
+msgid "Pointer Capture"
+msgstr "Capturează cursorul mausului"
+
+#: ../data/DwellClick.xml.h:1 ../data/PointerCapture.xml.h:1
+msgid "_About"
+msgstr "_Despre"
+
+#: ../data/DwellClick.xml.h:2 ../data/PointerCapture.xml.h:2
+msgid "_Help"
+msgstr "_Ajutor"
+
+#: ../data/DwellClick.xml.h:3 ../data/PointerCapture.xml.h:3
+msgid "_Preferences"
+msgstr "_Preferințe"
+
+#: ../data/mousetweaks.schemas.in.h:1
+msgid "Animate cursor"
+msgstr "Animează cursol"
+
+#: ../data/mousetweaks.schemas.in.h:2
+msgid "Button style"
+msgstr "Stil buton"
+
+#: ../data/mousetweaks.schemas.in.h:3
+msgid ""
+"Button style in click type window (\"0\" = Text, \"1\" = Icon, \"2\" = Both)"
+msgstr ""
+"Stil buton în fereastra tip clic („0” = Text, „1” = Iconiță, „2” = Ambele)"
+
+#: ../data/mousetweaks.schemas.in.h:4
+msgid ""
+"Direction to perform a double click (\"0\" = Left, \"1\" = Right, \"2\" = "
+"Up, \"3\" = Down)"
+msgstr ""
+"Direcția de efectuare a unul clic dublu („0” = Stânga, „1” = Dreapta, „2” = "
+"Sus, „3” = Jos )"
+
+#: ../data/mousetweaks.schemas.in.h:5
+msgid ""
+"Direction to perform a drag click (\"0\" = Left, \"1\" = Right, \"2\" = Up, "
+"\"3\" = Down)"
+msgstr ""
+"Direcția de efectuare a unui clic de tragere („0” = Stânga, „1” = Dreapta, "
+"„2” = Sus, „3” = Jos )"
+
+#: ../data/mousetweaks.schemas.in.h:6
+msgid ""
+"Direction to perform a secondary click (\"0\" = Left, \"1\" = Right, \"2\" = "
+"Up, \"3\" = Down)"
+msgstr ""
+"Direcția de efectuare a unul clic secundar  („0” = Stânga, „1” = Dreapta, "
+"„2” = Sus, „3” = Jos )"
+
+#: ../data/mousetweaks.schemas.in.h:7
+msgid ""
+"Direction to perform a single click (\"0\" = Left, \"1\" = Right, \"2\" = "
+"Up, \"3\" = Down)"
+msgstr ""
+"Direcția de efectuare a unul singur clic  („0” = Stânga, „1” = Dreapta, „2” "
+"= Sus, „3” = Jos )"
+
+#: ../data/mousetweaks.schemas.in.h:8
+msgid "Distance in pixels before movement will be recognized"
+msgstr "Distanța în pixeli la care este detectată o mișcare"
+
+#: ../data/mousetweaks.schemas.in.h:9
+msgid "Dwell click mode"
+msgstr "Mod clic staționar"
+
+#: ../data/mousetweaks.schemas.in.h:10
+msgid "Dwell click mode (\"0\" = Gesture mode, \"1\" = Window mode)"
+msgstr "Mod clic stațioar  („0” = Mod gesturi, „1” = Mod fereastră )"
+
+#: ../data/mousetweaks.schemas.in.h:11
+msgid "Dwell click time"
+msgstr "Timp clic staționar"
+
+#: ../data/mousetweaks.schemas.in.h:13
+msgid "Enable secondary click"
+msgstr "Activează clicul secundar"
+
+#: ../data/mousetweaks.schemas.in.h:14 ../src/mt-main.c:875
+msgid "Enable simulated secondary click"
+msgstr "Activează clicul secundar simulat"
+
+#: ../data/mousetweaks.schemas.in.h:15
+msgid "Gesture double click"
+msgstr "Gest clic dublu"
+
+#: ../data/mousetweaks.schemas.in.h:16
+msgid "Gesture drag click"
+msgstr "Gest clic tragere"
+
+#: ../data/mousetweaks.schemas.in.h:17
+msgid "Gesture secondary click"
+msgstr "Gest clic secundar"
+
+#: ../data/mousetweaks.schemas.in.h:18
+msgid "Gesture single click"
+msgstr "Gest clic simplu"
+
+#: ../data/mousetweaks.schemas.in.h:19
+msgid "Movement threshold"
+msgstr "Prag mișcare"
+
+#: ../data/mousetweaks.schemas.in.h:20
+msgid "Secondary click time"
+msgstr "Timp clic secundar"
+
+#: ../data/mousetweaks.schemas.in.h:21 ../src/mt-main.c:883
+msgid "Show click type window"
+msgstr "Afișează fereastra tip clic"
+
+#: ../data/mousetweaks.schemas.in.h:22
+msgid "Show elapsed time as cursor overlay."
+msgstr "Afișează timpul rămas ca suprapunere cursor"
+
+#: ../data/mousetweaks.schemas.in.h:23
+msgid "Time in seconds before a click is triggered"
+msgstr "Timp în secunde pentru declanșarea unui clic"
+
+#: ../data/mousetweaks.schemas.in.h:24
+msgid "Time in seconds before a secondary click is triggered"
+msgstr "Timp în secunde pentru declanșarea unui clic secundar"
+
+#: ../data/pointer-capture-applet.schemas.in.h:1
+msgid "Capture pointer only if Alt is pressed"
+msgstr "Capturează cursorul doar dacă tasta Alt este apăsată"
+
+#: ../data/pointer-capture-applet.schemas.in.h:2
+msgid "Capture pointer only if Ctrl is pressed"
+msgstr "Capturează cursorul doar dacă tasta Ctrl este apăsată"
+
+#: ../data/pointer-capture-applet.schemas.in.h:3
+msgid "Capture pointer only if Shift is pressed"
+msgstr "Capturează cursorul doar dacă tasta Shift este apăsată"
+
+#: ../data/pointer-capture-applet.schemas.in.h:4
+msgid "Mouse button used to capture the pointer"
+msgstr "Buton de maus folosit pentru capturarea cursorului"
+
+#: ../data/pointer-capture-applet.schemas.in.h:5
+msgid "Mouse button used to release the pointer"
+msgstr "Buton de maus folosit pentru eliberarea cursorului"
+
+#: ../data/pointer-capture-applet.schemas.in.h:6
+msgid "Release pointer only if Alt is pressed"
+msgstr "Eliberează cursorul doar dacă tasta Alt este apăsată"
+
+#: ../data/pointer-capture-applet.schemas.in.h:7
+msgid "Release pointer only if Ctrl is pressed"
+msgstr "Eliberează cursorul doar dacă tasta Ctrl este apăsată"
+
+#: ../data/pointer-capture-applet.schemas.in.h:8
+msgid "Release pointer only if Shift is pressed"
+msgstr "Eliberează cursorul doar dacă tasta Shift este apăsată"
+
+#: ../data/pointer-capture-applet.schemas.in.h:9
+msgid "Size of capture area"
+msgstr "Dimensiunea zonei de capturare"
+
+#: ../data/pointer-capture-applet.schemas.in.h:10
+msgid ""
+"This mouse button must be pressed to release the pointer from the capture "
+"area. Valid values are \"1\" for left button, \"2\" for middle button, and "
+"\"3\" for right button."
+msgstr ""
+"Acest buton de maus trebuie să fie apăsat pentru a elibera cursorul din zona "
+"de captură. Valorile valide sunt „1” pentru butonul stânga, „2” pentru "
+"butonul din mijloc, „3” pentru butonul din dreapta"
+
+#: ../data/pointer-capture-applet.schemas.in.h:11
+msgid ""
+"This mouse button must be pressed while the pointer is over the capture area "
+"in order to capture the pointer. Valid values are \"0\" if no button is "
+"needed, \"1\" for left button, \"2\" for middle button, and \"3\" for right "
+"button."
+msgstr ""
+"Pentru capturarea cursorului, acest buton al mausului trebuie apăsat în timp "
+"ce cursorul se află deasupra zonei de captură. Valorile valide sunt „0” dacă "
+"nu este nevoie de nici un buton, „1” pentru butonul din dreapta, „2” pentru "
+"butonul din stânga, „3” pentru butonul din dreapta."
+
+#: ../data/pointer-capture-applet.schemas.in.h:12
+msgid ""
+"Whether the Alt key must be pressed for the pointer to be captured while "
+"it's over the capture area. If this option is set as true, and a mouse "
+"button is set in the \"capture_button\" key, then the Alt key must be "
+"pressed while the mouse button is pressed."
+msgstr ""
+"Dacă tasta Alt trebuie să fie apăsată pentru capturarea cursorului în timp "
+"ce se află deasupra zonei de capturare. Dacă această opțiune este definită "
+"ca „true” și un buton al mausului este definit în cheia „capture_buton”, "
+"atunci tasta Alt trebuie să fie apăsată în momentul apăsării butonului de "
+"maus."
+
+#: ../data/pointer-capture-applet.schemas.in.h:13
+msgid ""
+"Whether the Alt key must be pressed with the mouse button set in "
+"\"release_button\" for the pointer to be released from the capture area."
+msgstr ""
+"Dacă tasta Alt trebuie să fie apăsată împreună cu butonul de maus definit în "
+"„release_butoon” pentru eliberarea cursorului din zone de captură."
+
+#: ../data/pointer-capture-applet.schemas.in.h:14
+msgid ""
+"Whether the Ctrl key must be pressed for the pointer to be captured while "
+"it's over the capture area. If this option is set as true, and a mouse "
+"button is set in the \"capture_button\" key, then the Ctrl key must be "
+"pressed while the mouse button is pressed."
+msgstr ""
+"Dacă tasta Ctrl trebuie să fie apăsată pentru capturarea cursorului în timp "
+"ce se află deasupra zonei de capturare. Dacă această opțiune este definită "
+"ca „true” și un buton al mausului este definit în cheia „capture_buton”, "
+"atunci tasta Ctrl trebuie să fie apăsată în momentul apăsării butonului de "
+"maus."
+
+#: ../data/pointer-capture-applet.schemas.in.h:15
+msgid ""
+"Whether the Ctrl key must be pressed with the mouse button set in "
+"\"release_button\" for the pointer to be released from the capture area."
+msgstr ""
+"Dacă tasta Ctrl trebuie să fie apăsată împreună cu butonul de maus definit "
+"în „release_butoon” pentru eliberarea cursorului din zone de captură."
+
+#: ../data/pointer-capture-applet.schemas.in.h:16
+msgid ""
+"Whether the Shift key must be pressed for the pointer to be captured while "
+"it's over the capture area. If this option is set as true, and a mouse "
+"button is set in the \"capture_button\" key, then the Shift key must be "
+"pressed while the mouse button is pressed."
+msgstr ""
+"Dacă tasta Shift trebuie să fie apăsată pentru capturarea cursorului în timp "
+"ce se află deasupra zonei de capturare. Dacă această opțiune este definită "
+"ca „true” și un buton al mausului este definit în cheia „capture_buton”, "
+"atunci tasta Shift trebuie să fie apăsată în momentul apăsării butonului de "
+"maus."
+
+#: ../data/pointer-capture-applet.schemas.in.h:17
+msgid ""
+"Whether the Shift key must be pressed with the mouse button set in "
+"\"release_button\" for the pointer to be released from the capture area."
+msgstr ""
+"Dacă tasta Shift trebuie să fie apăsată împreună cu butonul de maus definit "
+"în „release_butoon” pentru eliberarea cursorului din zone de captură."
+
+#: ../data/pointer-capture-applet.schemas.in.h:18
+msgid "Width of the capture area in pixels."
+msgstr "Lățimea în pixeli a zonei de captură"
+
+#: ../src/mt-main.c:767
+msgid "Assistive Technology Support is not Enabled"
+msgstr "Suportul pentru tehnologii asistative nu este activat"
+
+#: ../src/mt-main.c:768
+msgid ""
+"Mousetweaks requires assistive technologies to be enabled in your session.\n"
+"\n"
+"To enable support for assistive technologies and restart your session, press "
+"\"Enable and Log Out\"."
+msgstr ""
+"Mousetweaks necesită ca tehnologiile asistative să fie activate pentru "
+"sesiunea dumneavoastră.\n"
+"\n"
+"Pentru a activa suportul pentru tehnologiile asistative și a reporni "
+"sesiunea, apăsați „Activează și închide sesiunea”."
+
+#: ../src/mt-main.c:877
+msgid "Time to wait before a dwell click"
+msgstr "Timp de așteptare înainte de un clic staționar"
+
+#: ../src/mt-main.c:879
+msgid "Time to wait before a simulated secondary click"
+msgstr "Timp de așteptare înainte de un clic secundar simulat"
+
+#: ../src/mt-main.c:881
+msgid "Dwell mode to use"
+msgstr "Mode staționar folosit"
+
+#: ../src/mt-main.c:885
+msgid "Window x position"
+msgstr "Poziție x fereastră"
+
+#: ../src/mt-main.c:887
+msgid "Window y position"
+msgstr "Poziție y fereastră"
+
+#: ../src/mt-main.c:889
+msgid "Ignore small pointer movements"
+msgstr "Ignoră mișcările minore ale cursorului"
+
+#: ../src/mt-main.c:891
+msgid "Show elapsed time as cursor overlay"
+msgstr "Afișează timpul rămas ca suprapunere cursor"
+
+#: ../src/mt-main.c:893
+msgid "Shut down mousetweaks"
+msgstr "Închide mousetweaks"
+
+#: ../src/mt-main.c:902
+msgid "- GNOME mousetweaks daemon"
+msgstr "- serviciu mousetweaks GNOME "
+
+#: ../src/mt-common.c:30
+msgid "Failed to Display Help"
+msgstr "Afișarea ajutorului a eșuat"
+
+#: ../src/mt-common.c:66
+msgid "Enable and Log Out"
+msgstr "Activează și închide sesiunea"
+
+#: ../src/pointer-capture-applet.c:180
+msgid "Locked"
+msgstr "Blocat"
+
+#. l10n: the first letter of 'Locked'
+#: ../src/pointer-capture-applet.c:183
+msgid "L"
+msgstr "B"
+
+#: ../src/pointer-capture-applet.c:621
+msgid "Capture area"
+msgstr "Zonă captură"
+
+#: ../src/pointer-capture-applet.c:622
+msgid "Temporarily lock the mouse pointer"
+msgstr "Blochează temporar cursorul mausului"
+
+#: ../src/dwell-click-applet.c:334
+msgid "Failed to Launch Mouse Preferences"
+msgstr "Lansarea preferințelor pentru mouse a eșuat"

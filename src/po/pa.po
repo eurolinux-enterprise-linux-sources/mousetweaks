@@ -1,0 +1,477 @@
+# translation of mousetweaks.HEAD.po to Punjabi
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Amanpreet Singh Alam <aalam@users.sf.net>, 2008,  2009.
+# A S Alam <aalam@users.sf.net>, 2009.
+msgid ""
+msgstr ""
+"Project-Id-Version: mousetweaks.HEAD\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug."
+"cgi?product=mousetweaks&component=general\n"
+"POT-Creation-Date: 2009-09-02 18:34+0000\n"
+"PO-Revision-Date: 2009-09-19 22:03+0530\n"
+"Last-Translator: A S Alam <aalam@users.sf.net>\n"
+"Language-Team: Punjabi/Panjabi <punjabi-users@lists.sf.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../data/dwell-click-applet.ui.h:1
+msgid ""
+"Applet to select different dwell-click types.\n"
+"Part of Mousetweaks"
+msgstr ""
+"ਵੱਖ ਵੱਖ ਡੀਵਿਲ-ਕਲਿੱਕ ਟਾਈਪ ਚੁਣਨ ਲਈ ਐਪਲਿਟ ਹੈ।\n"
+"ਮਾਊਸ-ਸੋਧ ਦਾ ਭਾਗ ਹੈ"
+
+#: ../data/dwell-click-applet.ui.h:3
+#| msgid "Show click type window"
+msgid "Click Type Window"
+msgstr "ਕਲਿੱਕ ਟਾਈਪ ਵਿੰਡੋ"
+
+#: ../data/dwell-click-applet.ui.h:4 ../data/mousetweaks.ui.h:1
+#| msgid "Dwell Click"
+msgid "Double Click"
+msgstr "ਡਬਲ ਕਲਿੱਕ"
+
+#: ../data/dwell-click-applet.ui.h:5 ../data/mousetweaks.ui.h:2
+#| msgid "Dwell Click"
+msgid "Drag Click"
+msgstr "ਡਰੈਗ ਕਲਿੱਕ"
+
+#: ../data/dwell-click-applet.ui.h:6 ../data/mousetweaks.schemas.in.h:12
+#: ../src/mt-main.c:873
+msgid "Enable dwell click"
+msgstr "ਡੀਵਿਲ ਦਬਾਉ ਚਾਲੂ"
+
+#: ../data/dwell-click-applet.ui.h:7 ../data/mousetweaks.ui.h:4
+msgid "Right Click"
+msgstr "ਸੱਜਾ ਕਲਿੱਕ"
+
+#: ../data/dwell-click-applet.ui.h:8 ../data/mousetweaks.ui.h:8
+#| msgid "Gesture single click"
+msgid "Single Click"
+msgstr "ਇੱਕਲਾ ਕਲਿੱਕ"
+
+#: ../data/pointer-capture-applet.ui.h:1
+msgid "A_lt"
+msgstr "A_lt"
+
+#: ../data/pointer-capture-applet.ui.h:2
+msgid ""
+"Area to freeze the mouse pointer on the panel.\n"
+"Part of Mousetweaks"
+msgstr ""
+"ਪੈਨਲ ਉੱਤੇ ਮਾਊਂਸ ਪੁਆਇੰਟਰ ਨੂੰ ਰੋਕਣ ਦਾ ਖੇਤਰ ਹੈ।\n"
+"ਮਾਊਸ-ਸੋਧਾਂ ਦਾ ਭਾਗ ਹੈ"
+
+#: ../data/pointer-capture-applet.ui.h:4
+msgid "C_trl"
+msgstr "C_trl"
+
+#: ../data/pointer-capture-applet.ui.h:5
+#| msgid "Capture area"
+msgid "Capture Pointer"
+msgstr "ਕੈਪਚਰ ਪੁਆਇੰਟਰ"
+
+#: ../data/pointer-capture-applet.ui.h:6
+msgid "Ct_rl"
+msgstr "Ct_rl"
+
+#: ../data/pointer-capture-applet.ui.h:7
+msgid "Modifier:"
+msgstr "ਮਾਡੀਫਾਇਰ:"
+
+#: ../data/pointer-capture-applet.ui.h:8
+msgid "Mouse _button:"
+msgstr "ਮਾਊਸ ਬਟਨ(_b):"
+
+#: ../data/pointer-capture-applet.ui.h:9
+msgid "Mouse b_utton:"
+msgstr "ਮਾਊਸ ਬਟਨ(_u):"
+
+#: ../data/pointer-capture-applet.ui.h:10
+#| msgid "Pointer Capture"
+msgid "Pointer Capture Preferences"
+msgstr "ਪੁਆਇੰਟਰ ਕੈਪਚਰ ਪਸੰਦ"
+
+#: ../data/pointer-capture-applet.ui.h:11
+msgid "Release Pointer"
+msgstr "ਰੀਲੀਜ਼ ਪੁਆਇੰਟਰ"
+
+#: ../data/pointer-capture-applet.ui.h:12
+msgid "S_hift"
+msgstr "S_hift"
+
+#: ../data/pointer-capture-applet.ui.h:13
+#| msgid "Mouse button used to capture the pointer"
+msgid "Selecting Button 0 will capture the pointer immediately"
+msgstr "ਬਟਨ 0 ਚੁਣਨ ਨਾਲ ਪੁਆਇੰਟਰ ਤਰੁੰਤ ਕੈਪਚਰ ਕੀਤਾ ਜਾਵੇਗਾ"
+
+#: ../data/pointer-capture-applet.ui.h:14
+msgid "Sh_ift"
+msgstr "Sh_ift"
+
+#: ../data/pointer-capture-applet.ui.h:15
+#| msgid "Size of capture area"
+msgid "Size of Capture Area"
+msgstr "ਕੈਪਚਰ ਖੇਤਰ ਦਾ ਸਾਈਜ਼"
+
+#: ../data/pointer-capture-applet.ui.h:16
+#| msgid "_About"
+msgid "_Alt"
+msgstr "_Alt"
+
+#: ../data/pointer-capture-applet.ui.h:17
+msgid "_Width:"
+msgstr "ਚੌੜਾਈ(_W):"
+
+#: ../data/pointer-capture-applet.ui.h:18
+msgid "pixels"
+msgstr "ਪਿਕਸਲ"
+
+#: ../data/mousetweaks.ui.h:3
+#| msgid "Dwell Click"
+msgid "Dwell Click Type"
+msgstr "ਡੀਵਿਲ ਕਲਿੱਕ ਟਾਈਪ"
+
+#: ../data/mousetweaks.ui.h:5
+msgid "Show Icons and Text"
+msgstr "ਆਈਕਾਨ ਅਤੇ ਟੈਕਸਟ ਵੇਖੋ"
+
+#: ../data/mousetweaks.ui.h:6
+msgid "Show Icons only"
+msgstr "ਕੇਵਲ ਆਈਕਾਨ ਵੇਖੋ"
+
+#: ../data/mousetweaks.ui.h:7
+msgid "Show Text only"
+msgstr "ਕੇਵਲ ਟੈਕਸਟ ਵੇਖੋ"
+
+#: ../data/DwellClick_Factory.server.in.in.h:1 ../src/dwell-click-applet.c:561
+msgid "Dwell Click"
+msgstr "ਡੀਵਿਲ ਕਲਿੱਕ"
+
+#: ../data/DwellClick_Factory.server.in.in.h:2
+msgid "Select dwelling click type"
+msgstr "ਡੀਵਿਲ ਕਲਿੱਕ ਟਾਈਪ ਚੁਣੋ"
+
+#: ../data/PointerCapture_Factory.server.in.in.h:1
+msgid "Area to lock the pointer"
+msgstr "ਪੁਆਇੰਟਰ ਨੂੰ ਲਾਕ ਕਰਨ ਲਈ ਖੇਤਰ"
+
+#: ../data/PointerCapture_Factory.server.in.in.h:2
+#: ../src/pointer-capture-applet.c:549
+msgid "Pointer Capture"
+msgstr "ਪੁਆਇੰਟਰ ਕੈਪਚਰ"
+
+#: ../data/DwellClick.xml.h:1 ../data/PointerCapture.xml.h:1
+msgid "_About"
+msgstr "ਇਸ ਬਾਰੇ(_A)"
+
+#: ../data/DwellClick.xml.h:2 ../data/PointerCapture.xml.h:2
+msgid "_Help"
+msgstr "ਮੱਦਦ(_H)"
+
+#: ../data/DwellClick.xml.h:3 ../data/PointerCapture.xml.h:3
+msgid "_Preferences"
+msgstr "ਮੇਰੀ ਪਸੰਦ(_P)"
+
+#: ../data/mousetweaks.schemas.in.h:1
+msgid "Animate cursor"
+msgstr "ਐਨੀਮੇਟ ਕਰਸਰ"
+
+#: ../data/mousetweaks.schemas.in.h:2
+msgid "Button style"
+msgstr "ਬਟਨ ਸਟਾਈਲ"
+
+#: ../data/mousetweaks.schemas.in.h:3
+msgid "Button style in click type window (\"0\" = Text, \"1\" = Icon, \"2\" = Both)"
+msgstr "ਦਬਾਉ ਕਿਸਮ ਵਿੰਡੋ ਵਿੱਚ ਬਟਨ ਸ਼ੈਲੀ (\"0\" = Text, \"1\" = Icon, \"2\" = Both)"
+
+#: ../data/mousetweaks.schemas.in.h:4
+msgid ""
+"Direction to perform a double click (\"0\" = Left, \"1\" = Right, \"2\" = "
+"Up, \"3\" = Down)"
+msgstr "ਦੂਹਰਾ ਦਬਾਉਣ ਲਈ ਦਿਸ਼ਾ (\"0\" = Left, \"1\" = Right, \"2\" = Up, \"3\" = Down)"
+
+#: ../data/mousetweaks.schemas.in.h:5
+msgid ""
+"Direction to perform a drag click (\"0\" = Left, \"1\" = Right, \"2\" = Up, "
+"\"3\" = Down)"
+msgstr ""
+"ਇੱਕ ਸੁੱਟਣ ਦਬਾਉ ਕਰਨ ਲਈ ਦਿਸ਼ਾ (\"0\" = Left, \"1\" = Right, \"2\" = Up, \"3\" = "
+"Down)"
+
+#: ../data/mousetweaks.schemas.in.h:6
+msgid ""
+"Direction to perform a secondary click (\"0\" = Left, \"1\" = Right, \"2\" = "
+"Up, \"3\" = Down)"
+msgstr "ਸੈਕੰਡਰੀ ਦਬਾਉਣ ਲਈ ਦਿਸ਼ਾ (\"0\" = Left, \"1\" = Right, \"2\" = Up, \"3\" = Down)"
+
+#: ../data/mousetweaks.schemas.in.h:7
+msgid ""
+"Direction to perform a single click (\"0\" = Left, \"1\" = Right, \"2\" = "
+"Up, \"3\" = Down)"
+msgstr "ਇੱਕਲਾ ਦਬਾਉਣ ਦੀ ਦਿਸ਼ਾ (\"0\" = Left, \"1\" = Right, \"2\" = Up, \"3\" = Down)"
+
+#: ../data/mousetweaks.schemas.in.h:8
+msgid "Distance in pixels before movement will be recognized"
+msgstr "ਚਾਲ ਨੂੰ ਪਛਾਣਨ ਤੋਂ ਪਹਿਲਾਂ ਪਿਕਸਲਾਂ ਵਿੱਚ ਦੂਰੀ"
+
+#: ../data/mousetweaks.schemas.in.h:9
+msgid "Dwell click mode"
+msgstr "ਡੀਵਿਲ ਕਲਿੱਕ ਮੋਡ"
+
+#: ../data/mousetweaks.schemas.in.h:10
+msgid "Dwell click mode (\"0\" = Gesture mode, \"1\" = Window mode)"
+msgstr "ਡੀਵਿਲ ਕਲਿੱਕ ਮੋਡ (\"0\" = Gesture mode, \"1\" = Window mode)"
+
+#: ../data/mousetweaks.schemas.in.h:11
+msgid "Dwell click time"
+msgstr "ਡੀਵਿਲ ਕਲਿੱਕ ਸਮਾਂ"
+
+#: ../data/mousetweaks.schemas.in.h:13
+msgid "Enable secondary click"
+msgstr "ਸੈਕੰਡਰੀ ਕਲਿੱਕ ਚਾਲੂ"
+
+#: ../data/mousetweaks.schemas.in.h:14 ../src/mt-main.c:875
+msgid "Enable simulated secondary click"
+msgstr "ਸੈਕੰਡਰੀ ਕਲਿੱਕ ਦੀ ਨਕਲ ਚਾਲੂ"
+
+#: ../data/mousetweaks.schemas.in.h:15
+msgid "Gesture double click"
+msgstr "ਜੈਸਚਰ ਡਬਲ ਕਲਿੱਕ"
+
+#: ../data/mousetweaks.schemas.in.h:16
+msgid "Gesture drag click"
+msgstr "ਜੈਸਚਰ ਡਰੈਗ ਕਲਿੱਕ"
+
+#: ../data/mousetweaks.schemas.in.h:17
+msgid "Gesture secondary click"
+msgstr "ਜੈਸਚਰ ਸੈਕੰਡਰੀ ਕਲਿੱਕ"
+
+#: ../data/mousetweaks.schemas.in.h:18
+msgid "Gesture single click"
+msgstr "ਜੈਸਚਰ ਸਿੰਗਲ ਕਲਿੱਕ"
+
+#: ../data/mousetweaks.schemas.in.h:19
+msgid "Movement threshold"
+msgstr "ਗਤੀ ਮੂਲ"
+
+#: ../data/mousetweaks.schemas.in.h:20
+msgid "Secondary click time"
+msgstr "ਸੈਕੰਡਰੀ ਕਲਿੱਕ ਸਮਾਂ"
+
+#: ../data/mousetweaks.schemas.in.h:21 ../src/mt-main.c:883
+msgid "Show click type window"
+msgstr "ਕਲਿੱਕ ਟਾਈਪ ਵਿੰਡੋ ਵੇਖੋ"
+
+#: ../data/mousetweaks.schemas.in.h:22
+msgid "Show elapsed time as cursor overlay."
+msgstr "ਕਰਸਰ ਸੰਖੇਪ ਵਾਂਗ ਬਾਕੀ ਸਮਾਂ ਵੇਖੋ"
+
+#: ../data/mousetweaks.schemas.in.h:23
+msgid "Time in seconds before a click is triggered"
+msgstr "ਇੱਕ ਕਲਿੱਕ ਚਾਲੂ ਹੋਣ ਤੋਂ ਪਹਿਲਾਂ ਸਮਾਂ ਸਕਿੰਟਾਂ ਵਿੱਚ"
+
+#: ../data/mousetweaks.schemas.in.h:24
+msgid "Time in seconds before a secondary click is triggered"
+msgstr "ਇੱਕ ਸੈਕੰਡਰੀ ਕਲਿੱਕ ਤੋਂ ਪਹਿਲਾਂ ਸਮਾਂ ਸਕਿੰਟਾਂ ਵਿੱਚ"
+
+#: ../data/pointer-capture-applet.schemas.in.h:1
+msgid "Capture pointer only if Alt is pressed"
+msgstr "ਜੇ Alt ਦੱਬਿਆ ਜਾਵੇ ਤਾਂ ਹੀ ਪੁਆਇੰਟਰ ਫੜੋ"
+
+#: ../data/pointer-capture-applet.schemas.in.h:2
+msgid "Capture pointer only if Ctrl is pressed"
+msgstr "ਪੁਆਇੰਟਰ ਤਾਂ ਹੀ ਫੜੋ, ਜੇ Ctrl ਦੱਬਿਆ ਜਾਵੇ"
+
+#: ../data/pointer-capture-applet.schemas.in.h:3
+msgid "Capture pointer only if Shift is pressed"
+msgstr "ਪੁਆਇੰਟਰ ਤਾਂ ਹੀ ਫੜੋ, ਜੇ ਸਿਫਟ ਦੱਬਿਆ ਜਾਵੇ"
+
+#: ../data/pointer-capture-applet.schemas.in.h:4
+msgid "Mouse button used to capture the pointer"
+msgstr "ਪੁਆਇੰਟਰ ਫੜਨ ਲਈ ਵਰਤਣ ਵਾਸਤੇ ਮਾਊਂਸ ਬਟਨ"
+
+#: ../data/pointer-capture-applet.schemas.in.h:5
+msgid "Mouse button used to release the pointer"
+msgstr "ਪੁਆਇੰਟਰ ਛੱਡਣ ਲਈ ਵਰਤਣ ਵਾਸਤੇ ਮਾਊਸ ਬਟਨ"
+
+#: ../data/pointer-capture-applet.schemas.in.h:6
+msgid "Release pointer only if Alt is pressed"
+msgstr "ਪੁਆਇੰਟਰ ਤਾਂ ਹੀ ਛੱਡੋ, ਜੇ Alt ਦੱਬਿਆ ਜਾਵੇ"
+
+#: ../data/pointer-capture-applet.schemas.in.h:7
+msgid "Release pointer only if Ctrl is pressed"
+msgstr "ਪੁਆਇੰਟਰ ਤਾਂ ਹੀ ਛੱਡੋ, ਜੇ Ctrl ਦੱਬਿਆ ਜਾਵੇ"
+
+#: ../data/pointer-capture-applet.schemas.in.h:8
+msgid "Release pointer only if Shift is pressed"
+msgstr "ਪੁਆਇੰਟਰ ਤਾਂ ਹੀ ਛੱਡੋ, ਜੇ ਸਿਫਟ ਦੱਬਿਆ ਜਾਵੇ"
+
+#: ../data/pointer-capture-applet.schemas.in.h:9
+msgid "Size of capture area"
+msgstr "ਕੈਪਚਰ ਖੇਤਰ ਦਾ ਆਕਾਰ"
+
+#: ../data/pointer-capture-applet.schemas.in.h:10
+msgid ""
+"This mouse button must be pressed to release the pointer from the capture "
+"area. Valid values are \"1\" for left button, \"2\" for middle button, and "
+"\"3\" for right button."
+msgstr ""
+"ਕੈਪਚਰ ਖੇਤਰ ਤੋਂ ਪੁਆਇੰਟਰ ਨੂੰ ਛੱਡਣ ਲਈ ਇਹ ਮਾਊਸ ਬਟਨ ਦੱਬਣਾ ਪਵੇਗਾ। ਵੈਧ ਮੁੱਲ ਹਨ \"1\" ਖੱਬੇ ਲਈ, \"2\" "
+"ਮੱਧ ਲਈ, \"3\" ਸੱਜੇ ਬਟਨ ਲਈ।"
+
+#: ../data/pointer-capture-applet.schemas.in.h:11
+msgid ""
+"This mouse button must be pressed while the pointer is over the capture area "
+"in order to capture the pointer. Valid values are \"0\" if no button is "
+"needed, \"1\" for left button, \"2\" for middle button, and \"3\" for right "
+"button."
+msgstr ""
+"ਪੁਆਇੰਟਰ ਨੂੰ ਕੈਪਚਰ ਖੇਤਰ ਉੱਤੇ ਲਿਜਾ ਕੇ ਫੜਨ ਲਈ ਇਹ ਮਾਊਸ ਬਟਨ ਦੱਬਣਾ ਪਵੇਗਾ। ਸੰਭਵ ਮੁੱਲ ਹਨ \"0\" "
+"ਜੇ ਕੋਈ ਬਟਨ ਲੋੜੀਦਾ ਨਾ ਹੋਵੇ, \"1\" ਖੱਬਾ ਬਟਨ, \"2\" ਮੱਧ ਬਟਨ ਅਤੇ \"3\" ਸੱਜੇ ਬਟਨ ਲਈ।"
+
+#: ../data/pointer-capture-applet.schemas.in.h:12
+msgid ""
+"Whether the Alt key must be pressed for the pointer to be captured while "
+"it's over the capture area. If this option is set as true, and a mouse "
+"button is set in the \"capture_button\" key, then the Alt key must be "
+"pressed while the mouse button is pressed."
+msgstr ""
+"ਕੀ ਪੁਆਇੰਟਰ ਲਈ Alt ਸਵਿੱਚ ਦੱਬਣੀ ਹੀ ਚਾਹੀਦੀ ਹੈ, ਜਦੋਂ ਇਹ ਕੈਪਚਰ ਖੇਤਰ ਉੱਤੇ ਹੋਵੇ। ਜੇ ਚੋਣ ਕੀਤੀ ਗਈ ਅਤੇ "
+"\"capture_button\" ਸਵਿੱਚ ਸੈੱਟ ਕੀਤੀ ਗਈ ਤਾਂ, ਸਿਫਟ ਸਵਿੱਚ ਨੂੰ ਮਾਊਸ ਬਟਨ ਵਲੋਂ ਦੱਬਿਆ ਹੋਵੇ।"
+
+#: ../data/pointer-capture-applet.schemas.in.h:13
+msgid ""
+"Whether the Alt key must be pressed with the mouse button set in "
+"\"release_button\" for the pointer to be released from the capture area."
+msgstr ""
+"ਕੀ ਪੁਆਇੰਟਰ ਲਈ Alt ਸਵਿੱਚ ਦੱਬਣੀ ਹੀ ਚਾਹੀਦੀ ਹੈ, ਜਦੋਂ ਇਹ ਕੈਪਚਰ ਖੇਤਰ ਉੱਤੇ ਹੋਵੇ। ਜੇ ਚੋਣ ਕੀਤੀ ਗਈ ਅਤੇ "
+"\"release_button\" ਸਵਿੱਚ ਸੈੱਟ ਕੀਤੀ ਗਈ ਤਾਂ, ਸਿਫਟ ਸਵਿੱਚ ਨੂੰ ਮਾਊਸ ਬਟਨ ਵਲੋਂ ਦੱਬਿਆ ਹੋਵੇ।"
+
+#: ../data/pointer-capture-applet.schemas.in.h:14
+msgid ""
+"Whether the Ctrl key must be pressed for the pointer to be captured while "
+"it's over the capture area. If this option is set as true, and a mouse "
+"button is set in the \"capture_button\" key, then the Ctrl key must be "
+"pressed while the mouse button is pressed."
+msgstr ""
+"ਕੀ ਪੁਆਇੰਟਰ ਲਈ Ctrl ਸਵਿੱਚ ਦੱਬਣੀ ਹੀ ਚਾਹੀਦੀ ਹੈ, ਜਦੋਂ ਇਹ ਕੈਪਚਰ ਖੇਤਰ ਉੱਤੇ ਹੋਵੇ। ਜੇ ਚੋਣ ਕੀਤੀ ਗਈ "
+"ਅਤੇ \"capture_button\" ਸਵਿੱਚ ਸੈੱਟ ਕੀਤੀ ਗਈ ਤਾਂ, Ctrl ਸਵਿੱਚ ਦੱਬਣਾ ਲਾਜ਼ਮੀ ਹੈ, ਜਦੋਂ ਕਿ "
+"ਮਾਊਸ ਬਟਨ ਵਲੋਂ ਦੱਬਿਆ ਹੋਵੇ।"
+
+#: ../data/pointer-capture-applet.schemas.in.h:15
+msgid ""
+"Whether the Ctrl key must be pressed with the mouse button set in "
+"\"release_button\" for the pointer to be released from the capture area."
+msgstr ""
+"ਕੀ ਮਾਊਸ ਬਟਨ ਸੈੱਟ ਨਾਲ \"release_button\" ਵਿੱਚ  Ctrl ਸਵਿੱਚ ਦੱਬਣੀ ਹੀ ਚਾਹੀਦੀ ਹੈ, ਜਦੋਂ "
+"ਕੈਪਚਰ ਖੇਤਰ ਤੋਂ ਪੁਆਇੰਟਰ ਨੂੰ ਛੱਡਿਆ ਜਾਵੇ।"
+
+#: ../data/pointer-capture-applet.schemas.in.h:16
+msgid ""
+"Whether the Shift key must be pressed for the pointer to be captured while "
+"it's over the capture area. If this option is set as true, and a mouse "
+"button is set in the \"capture_button\" key, then the Shift key must be "
+"pressed while the mouse button is pressed."
+msgstr ""
+"ਕੀ ਪੁਆਇੰਟਰ ਲਈ ਸਿਫਟ ਸਵਿੱਚ ਦੱਬਣੀ ਹੀ ਚਾਹੀਦੀ ਹੈ, ਜਦੋਂ ਇਹ ਕੈਪਚਰ ਖੇਤਰ ਉੱਤੇ ਹੋਵੇ। ਜੇ ਚੋਣ ਕੀਤੀ ਗਈ "
+"ਅਤੇ \"capture_button\" ਸਵਿੱਚ ਸੈੱਟ ਕੀਤੀ ਗਈ ਤਾਂ, ਸਿਫਟ ਸਵਿੱਚ ਨੂੰ ਮਾਊਸ ਬਟਨ ਵਲੋਂ ਦੱਬਿਆ ਹੋਵੇ।"
+
+#: ../data/pointer-capture-applet.schemas.in.h:17
+msgid ""
+"Whether the Shift key must be pressed with the mouse button set in "
+"\"release_button\" for the pointer to be released from the capture area."
+msgstr ""
+"ਕੀ ਮਾਊਸ ਬਟਨ ਸੈੱਟ ਨਾਲ \"release_button\" ਵਿੱਚ ਸਿਫਟ ਸਵਿੱਚ ਦੱਬਣੀ ਹੀ ਚਾਹੀਦੀ ਹੈ, ਜਦੋਂ "
+"ਕੈਪਚਰ ਖੇਤਰ ਤੋਂ ਪੁਆਇੰਟਰ ਨੂੰ ਛੱਡਿਆ ਜਾਵੇ।"
+
+#: ../data/pointer-capture-applet.schemas.in.h:18
+msgid "Width of the capture area in pixels."
+msgstr "ਪਕੜ ਖੇਤਰ ਦੀ ਚੌੜਾਈ ਪਿਕਸਲ ਵਿੱਚ।"
+
+#: ../src/mt-main.c:767
+msgid "Assistive Technology Support is not Enabled"
+msgstr "ਸਹਾਇਕ ਤਕਨਾਲੋਜੀ ਸਹਿਯੋਗ ਚਾਲੂ ਨਹੀਂ ਹੈ"
+
+#: ../src/mt-main.c:768
+msgid ""
+"Mousetweaks requires assistive technologies to be enabled in your session.\n"
+"\n"
+"To enable support for assistive technologies and restart your session, press "
+"\"Enable and Log Out\"."
+msgstr ""
+"ਮਾਊਂਸ-ਸੋਧ ਲਈ ਸਹਾਇਕ ਤਕਨਾਲੋਜੀ ਨੂੰ ਤੁਹਾਡੇ ਸ਼ੈਸ਼ਨ ਵਿੱਚ ਚਾਲੂ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।\n"
+"\n"
+"ਸਹਾਇਕ ਤਕਨਾਲੋਨਜੀ ਨੂੰ ਚਾਲੂ ਕਰਨ ਅਤੇ ਆਪਣਾ ਸ਼ੈਸ਼ਨ ਮੁੜ-ਚਾਲੂ ਕਰਨ ਲਈ \"ਚਾਲੂ ਅਤੇ ਲਾਗ-ਆਉਟ\" ਵਰਤੋਂ।"
+
+#: ../src/mt-main.c:877
+msgid "Time to wait before a dwell click"
+msgstr "ਇੱਕ ਡੀਵਿਲ ਕਲਿੱਕ ਤੋਂ ਪਹਿਲਾਂ ਉਡੀਕ ਦਾ ਸਮਾਂ"
+
+#: ../src/mt-main.c:879
+msgid "Time to wait before a simulated secondary click"
+msgstr "ਇੱਕ ਸੈਕੰਡਰੀ ਕਲਿੱਕ ਦੀ ਨਕਲ ਤੋਂ ਪਹਿਲਾਂ ਉਡੀਕ ਦਾ ਸਮਾਂ"
+
+#: ../src/mt-main.c:881
+msgid "Dwell mode to use"
+msgstr "ਵਰਤਣ ਲਈ ਡੀਵਿਲ ਮੋਡ"
+
+#: ../src/mt-main.c:885
+msgid "Window x position"
+msgstr "ਵਿੰਡੋ x ਸਥਿਤੀ"
+
+#: ../src/mt-main.c:887
+msgid "Window y position"
+msgstr "ਵਿੰਡੋ y ਸਥਿਤੀ"
+
+#: ../src/mt-main.c:889
+msgid "Ignore small pointer movements"
+msgstr "ਛੋਟੀਆਂ ਪੁਆਇੰਟਰ ਚਾਲਾਂ ਅਣਡਿੱਠੀਆਂ"
+
+#: ../src/mt-main.c:891
+msgid "Show elapsed time as cursor overlay"
+msgstr "ਜਿਵੇਂ ਕਰਸਰ ਉੱਤੇ ਆਵੇ ਤਾਂ ਬਾਕੀ ਰਹਿੰਦਾ ਸਮਾਂ ਵੇਖੋ"
+
+#: ../src/mt-main.c:893
+msgid "Shut down mousetweaks"
+msgstr "ਮਾਊਸ-ਸੋਧਾਂ ਬੰਦ ਕਰੋ"
+
+#: ../src/mt-main.c:902
+msgid "- GNOME mousetweaks daemon"
+msgstr "- ਗਨੋਮ ਮਾਊਸ ਸੋਧਾਂ ਡੈਮਨ"
+
+#: ../src/mt-common.c:30
+msgid "Failed to Display Help"
+msgstr "ਮੱਦਦ ਲੱਭਣ ਲਈ ਅਸਮਰੱਥ"
+
+#: ../src/mt-common.c:66
+msgid "Enable and Log Out"
+msgstr "ਚਾਲੂ ਅਤੇ ਲਾਗ-ਆਉਟ"
+
+#: ../src/pointer-capture-applet.c:180
+msgid "Locked"
+msgstr "ਲਾਕ ਕੀਤਾ"
+
+#. l10n: the first letter of 'Locked'
+#: ../src/pointer-capture-applet.c:183
+msgid "L"
+msgstr "L"
+
+#: ../src/pointer-capture-applet.c:621
+msgid "Capture area"
+msgstr "ਕੈਪਚਰ ਖੇਤਰ"
+
+#: ../src/pointer-capture-applet.c:622
+msgid "Temporarily lock the mouse pointer"
+msgstr "ਮਾਊਸ ਪੁਆਇੰਟਰ ਆਰਜ਼ੀ ਤੌਰ ਉੱਤੇ ਤਾਲਾਬੰਦ ਕਰੋ"
+
+#: ../src/dwell-click-applet.c:334
+msgid "Failed to Launch Mouse Preferences"
+msgstr "ਮਾਊਂਸ ਪਸੰਦ ਚਲਾਉਣ ਲਈ ਅਸਫ਼ਲ"
+
