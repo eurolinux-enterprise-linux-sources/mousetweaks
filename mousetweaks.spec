@@ -1,6 +1,6 @@
 Name:           mousetweaks
 Version:        3.8.0
-Release:        3%{?dist}
+Release:        1%{?dist}
 Summary:        Mouse accessibility support for the GNOME desktop
 Group:          User Interface/Desktops
 License:        GPLv3 and GFDL
@@ -64,12 +64,6 @@ glib-compile-schemas %{_datadir}/glib-2.0/schemas &>/dev/null || :
 %doc %{_mandir}/man1/*
 
 %changelog
-* Fri Jan 24 2014 Daniel Mach <dmach@redhat.com> - 3.8.0-3
-- Mass rebuild 2014-01-24
-
-* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 3.8.0-2
-- Mass rebuild 2013-12-27
-
 * Tue Mar 26 2013 Kalev Lember <kalevlember@gmail.com> - 3.8.0-1
 - Update to 3.8.0
 
